@@ -125,10 +125,6 @@ Sign in with your Google account and start interacting with your personal AI ass
 
 ---
 
-## 📄 License
-
-This project is licensed under the **MIT License**.
-
 ---
 
 ## 🙏 Acknowledgments
