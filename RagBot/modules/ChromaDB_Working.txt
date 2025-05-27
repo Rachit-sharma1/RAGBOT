@@ -1,0 +1,24 @@
+### Chroma DB Working
+
+[Create Collection]
+    │
+    ▼
+[Add Documents]
+    │
+    ▼
+[Automatic Embedding Generation]
+    │
+    ▼
+[Store Embeddings + Metadata]
+    │
+    ▼
+[Query Collection]
+    │
+    ▼
+[Chroma Converts Query to Embedding]
+    │
+    ▼
+[Find Similar Embeddings (ANN Search)]
+    │
+    ▼
+[Return Matching Documents + Metadata]

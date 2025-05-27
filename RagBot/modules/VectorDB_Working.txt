@@ -1,0 +1,30 @@
+###How Vector DB Works
+
+[Raw Data] 
+    │
+    ▼
+[Embedding Model]
+    │   (e.g., BERT, MiniLM)
+    ▼
+[Vector Embeddings]
+    │
+    ▼
+[Indexing Algorithms]
+    │   (e.g., HNSW, LSH, PQ)
+    ▼
+[Vector Database Storage]
+    │
+    ▼
+[Query: User Input]
+    │
+    ▼
+[Query Embedding]
+    │
+    ▼
+[Similarity Search]
+    │   (e.g., Cosine Similarity)
+    ▼
+[Retrieve Top-K Similar Vectors]
+    │
+    ▼
+[Return Results/Metadata]
